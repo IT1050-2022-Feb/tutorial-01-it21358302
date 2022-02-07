@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 int main() {
-   float marks1,marks2,average;
+   double marks1,marks2,average;
    
    printf("\nenter marks:");
    
