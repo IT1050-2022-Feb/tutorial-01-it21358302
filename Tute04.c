@@ -33,4 +33,4 @@ int maximum(int x1,int x2){
 }
 
 int multiply(int y1,int y2){
-   return y1*y2;}
+   return y1*y2; }

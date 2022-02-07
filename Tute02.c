@@ -19,7 +19,7 @@ Amount = 30 x 50 + (50-30) x 40 = 2300*/
 #include <stdio.h>
 
 int main() {
-  float dis,amount;
+  double dis,amount;
   
   printf("\nEnter the dis(km):");
   scanf("%f",dis);
