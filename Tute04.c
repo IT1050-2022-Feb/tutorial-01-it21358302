@@ -17,3 +17,20 @@ int main() {
    printf("%d ", multiply(no1, no2));
    return 0;
 }
+
+ int minumum(int no1,int no2){
+    if(no1>no2){
+       return no2;}
+    else if (no2>no1){
+       return no1;}
+ }
+
+int maximum(int x1,int x2){
+   if(x1>x2){
+     return x1;}
+   else if(x2>x1){
+      return x2;}
+}
+
+int multiply(int y1,int y2){
+   return y1*y2;}
